@@ -34,7 +34,7 @@
     <!-- Settings -->
 
     <string name="pref_title__desktop">Escritorio</string>
-    <string name="pref_title__dock">Dock</string>
+    <string name="pref_title__dock">Panel</string>
     <string name="pref_title__app_drawer">Cajón de aplicaciones</string>
     <string name="pref_title__gestures">Gestos</string>
     <string name="pref_title__icons">Íconos</string>
@@ -69,8 +69,8 @@
     <string name="pref_summary__search_bar_force_browser">Siempre usar el navegador para búsquedas en línea.</string>
     <string name="pref_title__desktop_background_color">Fondo</string>
     <string name="pref_title__desktop_folder_color">Carpeta</string>
-    <string name="pref_title__search_bar_show_hidden_apps">Mostrar apps escondidas</string>
-    <string name="pref_summary__search_bar_show_hidden_apps">Mostrar aplicaciones escondidas en los resultados de búsqueda.</string>
+    <string name="pref_title__search_bar_show_hidden_apps">Mostrar aplicaciones ocultas</string>
+    <string name="pref_summary__search_bar_show_hidden_apps">Mostrar aplicaciones ocultas en los resultados de búsqueda.</string>
 
     <string name="pref_title__dock_show_label">Mostrar las etiquetas.</string>
     <string name="pref_summary__dock_show_label">Mostrar las etiquetas de los ítems debajo de sus íconos.</string>
@@ -132,10 +132,10 @@
     <string name="select_app">Selecciona la aplicación</string>
     <string name="off">Apagado</string>
     <string name="version">Versión</string>
-    <string name="select_wallpaper">Escoger fondo de pantalla</string>
+    <string name="select_wallpaper">Seleccione el fondo de pantalla</string>
     <string name="select_icon_pack">Escoger paquete de íconos</string>
     <string name="toast_icon_pack_error">Incapaz de seleccionar el ícono sin el permiso READ_EXTERNAL_STORAGE.</string>
-    <string name="toast_backup_success">Hecho.</string>
+    <string name="toast_backup_success">Se ha restaurado correctamente.</string>
     <string name="toast_backup_error">Algo salió mal.</string>
     <string name="columns">Columnas</string>
     <string name="rows">Filas</string>
@@ -158,7 +158,7 @@
     <string name="remove">Eliminar</string>
 
     <!-- Desktop Option View -->
-    <string name="home">Pantalla ppal.</string><!--Correct translation is 'Pantalla principal', but it gets elipsized-->
+    <string name="home">Pantalla principal.</string><!--Correct translation is 'Pantalla principal', but it gets elipsized-->
     <string name="action">Acción</string>
     <string name="lock">Bloquear</string>
     <string name="widget">Widgets</string>
